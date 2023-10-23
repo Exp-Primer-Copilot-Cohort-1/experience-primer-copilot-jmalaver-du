@@ -7,5 +7,5 @@ function skillsMember () {
         scope: {
             member: '='
         }
-    }
+    };
 }
